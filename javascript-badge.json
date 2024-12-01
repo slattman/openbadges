@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://slattman.github.io/openbadge/javascript-badge.json",
+    "id": "https://slattman.github.io/openbadges/javascript-badge.json",
     "type": "BadgeClass",
     "name": "Javascript",
     "description": "Certified Javascript Developer",

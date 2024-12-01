@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://slattman.github.io/openbadge/html-badge.json",
+    "id": "https://slattman.github.io/openbadges/html-badge.json",
     "type": "BadgeClass",
     "name": "HTML",
     "description": "Certified HTML Developer",

@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://slattman.github.io/openbadge/css-badge.json",
+    "id": "https://slattman.github.io/openbadges/css-badge.json",
     "type": "BadgeClass",
     "name": "CSS",
     "description": "Certified CSS Developer",

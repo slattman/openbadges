@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://slattman.github.io/openbadge/php-badge.json",
+    "id": "https://slattman.github.io/openbadges/php-badge.json",
     "type": "BadgeClass",
     "name": "PHP",
     "description": "Certified PHP Developer",

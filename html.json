@@ -5,8 +5,8 @@
     "recipient":
     {
         "type": "email",
-        "hashed": false,
-        "identity": "slattman@gmail.com"
+        "hashed": true,
+        "identity": "sha256$6341ff7036ec3cc3b364d5701b672803e5e92163dc20268e037e40dd9eb82700"
     },
     "badge": "https://slattman.github.io/openbadges/html-badge.json",
     "verification":

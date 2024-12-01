@@ -5,7 +5,7 @@
     "name": "PHP",
     "description": "Certified PHP Developer",
     "image": "http://slattman.github.io/openbadges/php.png",
-    "criteria": "http://slattman.github.io/openbadges/php.png",
+    "criteria": "https://verify.w3schools.com/1PFHSSH3YS",
     "tags": ["php"],
     "alignment": [ ],
     "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"

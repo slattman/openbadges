@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://slattman.github.io/openbadge/node-badge.json",
+    "type": "BadgeClass",
+    "name": "Node.js",
+    "description": "Certified Node.js Developer",
+    "image": "http://slattman.github.io/openbadges/node.png",
+    "criteria": "http://slattman.github.io/openbadges/node.png",
+    "tags": ["node"],
+    "alignment": [ ],
+    "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"
+}

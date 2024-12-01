@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://slattman.github.io/openbadge/html-badge.json",
+    "type": "BadgeClass",
+    "name": "HTML",
+    "description": "Certified HTML Developer",
+    "image": "http://slattman.github.io/openbadges/html.png",
+    "criteria": "http://slattman.github.io/openbadges/html.png",
+    "tags": ["HTML"],
+    "alignment": [ ],
+    "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"
+}

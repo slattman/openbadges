@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json",
+    "type": "Issuer",
+    "name": "W3Schools",
+    "url": "https://w3schools.com"
+}

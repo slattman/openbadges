@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://slattman.github.io/openbadge/php-badge.json",
+    "type": "BadgeClass",
+    "name": "PHP",
+    "description": "Certified PHP Developer",
+    "image": "http://slattman.github.io/openbadges/php.png",
+    "criteria": "http://slattman.github.io/openbadges/php.png",
+    "tags": ["php"],
+    "alignment": [ ],
+    "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"
+}

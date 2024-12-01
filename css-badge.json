@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://slattman.github.io/openbadge/css-badge.json",
+    "type": "BadgeClass",
+    "name": "CSS",
+    "description": "Certified CSS Developer",
+    "image": "http://slattman.github.io/openbadges/css.png",
+    "criteria": "http://slattman.github.io/openbadges/css.png",
+    "tags": ["CSS"],
+    "alignment": [ ],
+    "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"
+}

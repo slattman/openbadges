@@ -1,18 +1,18 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://slattman.github.io/openbadges/node.json",
+    "id": "https://slattman.github.io/openbadges/html.json",
     "recipient":
     {
         "type": "email",
         "hashed": true,
         "identity": "slattman@gmail.com"
     },
-    "badge": "https://slattman.github.io/openbadges/node.json",
+    "badge": "https://slattman.github.io/openbadges/html.json",
     "verification":
     {
         "type": "hosted"
     },
-    "issuedOn": "2024-11-27T23:59:59Z",
+    "issuedOn": "2024-11-30T23:59:59Z",
     "expires": "2030-06-30T23:59:59Z"
 }

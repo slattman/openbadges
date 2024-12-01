@@ -5,7 +5,7 @@
     "recipient":
     {
         "type": "email",
-        "hashed": true,
+        "hashed": false,
         "identity": "slattman@gmail.com"
     },
     "badge": "https://slattman.github.io/openbadges/php-badge.json",

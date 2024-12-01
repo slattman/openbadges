@@ -1,14 +1,14 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://slattman.github.io/openbadge/css.json",
+    "id": "https://slattman.github.io/openbadges/css.json",
     "recipient":
     {
         "type": "email",
         "hashed": true,
         "identity": "slattman@gmail.com"
     },
-    "badge": "https://slattman.github.io/openbadge/css.json",
+    "badge": "https://slattman.github.io/openbadges/css.json",
     "verification":
     {
         "type": "hosted"

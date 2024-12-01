@@ -6,7 +6,7 @@
     "description": "Certified HTML Developer",
     "image": "http://slattman.github.io/openbadges/html.png",
     "criteria": "https://verify.w3schools.com/1PFHNKD418",
-    "tags": ["HTML"],
+    "tags": ["html"],
     "alignment": [ ],
     "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"
 }

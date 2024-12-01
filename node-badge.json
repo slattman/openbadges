@@ -6,7 +6,7 @@
     "description": "Certified Node.js Developer",
     "image": "http://slattman.github.io/openbadges/node.png",
     "criteria": "https://verify.w3schools.com/1PF3TU3GM4",
-    "tags": ["node"],
+    "tags": ["node.js"],
     "alignment": [ ],
     "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"
 }

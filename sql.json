@@ -1,0 +1,17 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "id": "https://slattman.github.io/openbadges/sql.json",
+    "recipient":
+    {
+        "type": "email",
+        "hashed": false,
+        "identity": "slattman@gmail.com"
+    },
+    "badge": "https://slattman.github.io/openbadges/sql-badge.json",
+    "verification":
+    {
+        "type": "hosted"
+    },
+    "issuedOn": "2024-12-03T23:59:59Z"
+}

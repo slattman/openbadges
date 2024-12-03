@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://slattman.github.io/openbadges/sql-badge.json",
+    "type": "BadgeClass",
+    "name": "SQL",
+    "description": "Certified SQL Developer",
+    "image": "http://slattman.github.io/openbadges/sql.png",
+    "criteria": "https://verify.w3schools.com/1PFRPPOPA3",
+    "tags": ["sql"],
+    "alignment": [ ],
+    "issuer": "http://slattman.github.io/openbadges/issuer-organization-w3schools.json"
+}
